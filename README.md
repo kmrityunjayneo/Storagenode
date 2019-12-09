@@ -1,0 +1,2 @@
+# Storagenode
+Plugin for FreeNAS
